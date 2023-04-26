@@ -1,5 +1,5 @@
 ### Olá!
 
-- Conhecimentos em C, python, html/css; 
-- Conhecimento em java e SQL básico;
+- Conhecimentos em C, html/css; 
+- Conhecimento em java, python e SQL básico;
 - pt/br e eng; 
