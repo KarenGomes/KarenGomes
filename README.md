@@ -15,7 +15,7 @@
 
 
  ### Main skills:
-HTML5, CSS, C
+HTML5, CSS, C, java
 
 ### Studying in this moment:
 Javascript, Python
