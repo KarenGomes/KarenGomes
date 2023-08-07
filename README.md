@@ -8,17 +8,28 @@
 </div>
 
 <br>
+
+
+<div align="center">
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarenGomes&bg_color=0d1117&color=2c6975&line=68b2a0&point=2c6975&area=true&hide_border=true" alt="Ashutosh's github activity graph" width="90%" height="300px">
+  </a>
+    
+</div>
+
+### Main skills:
+HTML5, CSS, C
+    
+### Studying in this moment:
+Javascript, Python, java
+
+  
+<br>
 <div align="center"> 
 <a href = "mailto:karen.gomes12023@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/karen-sgomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
-
-
- ### Main skills:
-HTML5, CSS, C
-
-### Studying in this moment:
-Javascript, Python, java
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c6975&height=120&section=footer"/>
 
