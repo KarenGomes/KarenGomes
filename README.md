@@ -13,7 +13,7 @@
 <div align="center">
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarenGomes&bg_color=0d1117&color=2c6975&line=68b2a0&point=2c6975&area=true&hide_border=true" alt="Ashutosh's github activity graph" width="90%" height="300px">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarenGomes&bg_color=0d1117&color=2c6975&line=68b2a0&point=2c6975&area=true&hide_border=true" alt="Ashutosh's github activity graph" width="88%" height="330px">
   </a>
     
 </div>
