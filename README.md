@@ -17,13 +17,17 @@
     
 </div>
 
+<div align="center">
+
+
 ### Main skills:
 HTML5, CSS, C
     
 ### Studying in this moment:
 Javascript, Python, java
-
   
+</div>
+
 <br>
 <div align="center"> 
 <a href = "mailto:karen.gomes12023@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
