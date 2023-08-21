@@ -24,7 +24,7 @@
 HTML5, CSS, C
     
 ### Studying in this moment:
-Javascript, Python, java
+Javascript, Python, java, SQL
   
 </div>
 
