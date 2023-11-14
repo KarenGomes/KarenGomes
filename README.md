@@ -21,10 +21,10 @@
 
 
 ### Main skills:
-HTML5, CSS, C, Javascript
+HTML5, CSS, C, Javascript, SQL
     
 ### Studying in this moment:
-Python, java, SQL
+Python, java, React
   
 </div>
 
