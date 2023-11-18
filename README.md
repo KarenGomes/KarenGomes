@@ -24,7 +24,7 @@
 HTML5, CSS, C, Javascript, SQL
     
 ### Studying in this moment:
-Python, java, React
+Python, java, React, vue.js
   
 </div>
 
