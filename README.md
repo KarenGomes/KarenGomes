@@ -21,7 +21,7 @@
 
 
 ### Main skills:
-HTML5, CSS, C (SASS, TAILWINDCSS), Javascript, typescript, AngularJS, SQL
+HTML5, CSS (SASS, TAILWINDCSS), C, Javascript, typescript, AngularJS, SQL
     
 ### Studying in this moment:
 Python, java, React, vue.js
