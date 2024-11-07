@@ -24,7 +24,7 @@
 HTML5, CSS (SASS, TAILWINDCSS), C, Javascript, typescript, AngularJS, SQL, android studio
     
 ### Studying in this moment:
-Python, java, React, flutter, docker
+Java, php, React, flutter, docker
   
 </div>
 
