@@ -21,10 +21,10 @@
 
 
 ### Main skills:
-HTML5, CSS (SASS, TAILWINDCSS), C, Javascript, typescript, AngularJS, SQL, android studio
+Angular, Java, HTML5, CSS (SASS, TAILWINDCSS), C, Javascript/typescript, mySQL
     
 ### Studying in this moment:
-Java, php, React, flutter, docker
+Springboot, php, React, flutter
   
 </div>
 
