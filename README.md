@@ -9,7 +9,7 @@
 
 <div align="center">
 <a href="https://github.com/KarenGomes">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarenGomes&bg_color=0d1117&color=2c6975&line=68b2a0&point=2c6975&area=true&hide_border=true" width="80%" alt="Karen's activity graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarenGomes&bg_color=0d1117&color=2c6975&line=68b2a0&point=2c6975&area=true&hide_border=true" width="90%" alt="Karen's activity graph">
 </a>
 </div>
 
