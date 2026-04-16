@@ -15,10 +15,10 @@
 
 
 ### Main skills:
-Angular, Java, HTML5, CSS (SASS, TAILWINDCSS), C, Javascript/typescript/NodeJs, mySQL, flutter
+Angular, React, Java (Springboot), HTML5, CSS (SASS, TAILWINDCSS), C, Javascript/typescript/NodeJs, mySQL, flutter
     
 ### Studying in this moment:
-Springboot, aws, React, graphql
+AWS Lambda, graphql
   
 </div>
 
