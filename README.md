@@ -4,26 +4,17 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenGomes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=2c6975&icon_color=68b2a0&text_color=ffffff&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?  username=KarenGomes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=2c6975&icon_color=68b2a0&text_color=ffffff&bg_color=0d1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarenGomes&show_icons=true&theme=tokyonight&hide_border=true&title_color=2c6975&icon_color=68b2a0&text_color=ffffff&bg_color=0d1117" /></div>
-
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarenGomes&show_icons=true&theme=tokyonight&hide_border=true&title_color=2c6975&icon_color=68b2a0&text_color=ffffff&bg_color=0d1117" /></div>
+</div>
 
 
 
 <div align="center">
-
-
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarenGomes&bg_color=0d1117&color=2c6975&line=68b2a0&point=2c6975&area=true&hide_border=true" alt="Ashutosh's github activity graph" width="88%" height="330px">
-
-  </a>
-
-    
-
+<a href="https://github.com/KarenGomes">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarenGomes&bg_color=0d1117&color=2c6975&line=68b2a0&point=2c6975&area=true&hide_border=true" width="100%" alt="Karen's activity graph">
+</a>
 </div>
 
 <div align="center">
