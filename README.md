@@ -23,23 +23,19 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/KarenGomes">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarenGomes&bg_color=0d1117&color=2c6975&line=68b2a0&point=2c6975&area=true&hide_border=true" width="85%" alt="Karen's activity graph" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/KarenGomes/KarenGomes/main/stats.svg" width="36%" alt="stats graph" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/KarenGomes/KarenGomes/main/languages.svg" width="46%" alt="languages graph" />
 <br>
 
 </div>
 
-<br>
+<div align="center">
+  <a href="https://github.com/KarenGomes">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarenGomes&bg_color=0d1117&color=2c6975&line=68b2a0&point=2c6975&area=true&hide_border=true" width="85%" alt="Karen's activity graph" />
+  </a>
+</div>
 
-<h3 align="left"> ~· ♡ Languages and Tools</h3>
+<h3 align="center"> ~· ♡ Languages and Tools ♡ ·~</h3>
 
 <br>
 
