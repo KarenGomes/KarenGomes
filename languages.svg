@@ -1,0 +1,41 @@
+<svg width="380" height="206" viewBox="0 0 380 206" xmlns="http://www.w3.org/2000/svg">
+  <rect width="380" height="206" rx="12" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <g transform="translate(18,24)">
+    <text x="0" y="0" font-size="15" font-weight="bold" fill="#2c6975" font-family="sans-serif">
+      💻 Most Used Languages
+    </text>
+  </g>
+  <line x1="18" y1="42" x2="362" y2="42" stroke="#21262d" stroke-width="1"/>
+  <!-- bar -->
+  <rect x="18" y="62" width="344" height="10" rx="5" fill="#21262d"/>
+  <clipPath id="bar-clip">
+    <rect x="18" y="62" width="344" height="10" rx="5"/>
+  </clipPath>
+  <g clip-path="url(#bar-clip)"><rect x="18.0" y="62" width="68.3" height="10" rx="0" fill="#b07219"/><rect x="86.3" y="62" width="61.5" height="10" rx="0" fill="#3178c6"/><rect x="147.8" y="62" width="55.3" height="10" rx="0" fill="#f1e05a"/><rect x="203.1" y="62" width="31.2" height="10" rx="0" fill="#663399"/><rect x="234.3" y="62" width="30.5" height="10" rx="0" fill="#e34c26"/><rect x="264.9" y="62" width="26.8" height="10" rx="0" fill="#3572A5"/><rect x="291.7" y="62" width="23.8" height="10" rx="0" fill="#00B4AB"/><rect x="315.5" y="62" width="12.6" height="10" rx="0" fill="#f34b7d"/></g>
+  <!-- legend -->
+  
+    <circle cx="24" cy="101" r="6" fill="#b07219"/>
+    <text x="36" y="105" font-size="12" fill="#c9d1d9" font-family="sans-serif">Java</text>
+    <text x="184" y="105" font-size="12" fill="#8b949e" font-family="sans-serif" text-anchor="end">19.8%</text>
+    <circle cx="202" cy="101" r="6" fill="#3178c6"/>
+    <text x="214" y="105" font-size="12" fill="#c9d1d9" font-family="sans-serif">TypeScript</text>
+    <text x="362" y="105" font-size="12" fill="#8b949e" font-family="sans-serif" text-anchor="end">17.9%</text>
+    <circle cx="24" cy="125" r="6" fill="#f1e05a"/>
+    <text x="36" y="129" font-size="12" fill="#c9d1d9" font-family="sans-serif">JavaScript</text>
+    <text x="184" y="129" font-size="12" fill="#8b949e" font-family="sans-serif" text-anchor="end">16.1%</text>
+    <circle cx="202" cy="125" r="6" fill="#663399"/>
+    <text x="214" y="129" font-size="12" fill="#c9d1d9" font-family="sans-serif">CSS</text>
+    <text x="362" y="129" font-size="12" fill="#8b949e" font-family="sans-serif" text-anchor="end">9.1%</text>
+    <circle cx="24" cy="149" r="6" fill="#e34c26"/>
+    <text x="36" y="153" font-size="12" fill="#c9d1d9" font-family="sans-serif">HTML</text>
+    <text x="184" y="153" font-size="12" fill="#8b949e" font-family="sans-serif" text-anchor="end">8.9%</text>
+    <circle cx="202" cy="149" r="6" fill="#3572A5"/>
+    <text x="214" y="153" font-size="12" fill="#c9d1d9" font-family="sans-serif">Python</text>
+    <text x="362" y="153" font-size="12" fill="#8b949e" font-family="sans-serif" text-anchor="end">7.8%</text>
+    <circle cx="24" cy="173" r="6" fill="#00B4AB"/>
+    <text x="36" y="177" font-size="12" fill="#c9d1d9" font-family="sans-serif">Dart</text>
+    <text x="184" y="177" font-size="12" fill="#8b949e" font-family="sans-serif" text-anchor="end">6.9%</text>
+    <circle cx="202" cy="173" r="6" fill="#f34b7d"/>
+    <text x="214" y="177" font-size="12" fill="#c9d1d9" font-family="sans-serif">C++</text>
+    <text x="362" y="177" font-size="12" fill="#8b949e" font-family="sans-serif" text-anchor="end">3.6%</text>
+</svg>

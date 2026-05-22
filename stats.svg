@@ -1,0 +1,40 @@
+<svg width="380" height="266" viewBox="0 0 380 266" xmlns="http://www.w3.org/2000/svg">
+  <rect width="380" height="266" rx="12" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <g transform="translate(18,24)">
+    <text x="0" y="0" font-size="15" font-weight="bold" fill="#2c6975" font-family="sans-serif">
+      📊 Karen Gomes's GitHub Stats
+    </text>
+  </g>
+  <line x1="18" y1="42" x2="362" y2="42" stroke="#21262d" stroke-width="1"/>
+  
+    <g transform="translate(0,78)">
+      <text x="22" y="13" font-size="14" fill="#68b2a0" font-family="sans-serif">★</text>
+      <text x="42" y="13" font-size="13" fill="#c9d1d9" font-family="sans-serif">Total Stars Earned</text>
+      <text x="360" y="13" font-size="13" fill="#2c6975" font-family="sans-serif" text-anchor="end" font-weight="bold">16</text>
+    </g>
+    <g transform="translate(0,106)">
+      <text x="22" y="13" font-size="14" fill="#68b2a0" font-family="sans-serif">⬆</text>
+      <text x="42" y="13" font-size="13" fill="#c9d1d9" font-family="sans-serif">Total Commits (2024–25)</text>
+      <text x="360" y="13" font-size="13" fill="#2c6975" font-family="sans-serif" text-anchor="end" font-weight="bold">90</text>
+    </g>
+    <g transform="translate(0,134)">
+      <text x="22" y="13" font-size="14" fill="#68b2a0" font-family="sans-serif">↗</text>
+      <text x="42" y="13" font-size="13" fill="#c9d1d9" font-family="sans-serif">Total PRs</text>
+      <text x="360" y="13" font-size="13" fill="#2c6975" font-family="sans-serif" text-anchor="end" font-weight="bold">3</text>
+    </g>
+    <g transform="translate(0,162)">
+      <text x="22" y="13" font-size="14" fill="#68b2a0" font-family="sans-serif">◎</text>
+      <text x="42" y="13" font-size="13" fill="#c9d1d9" font-family="sans-serif">Total Issues</text>
+      <text x="360" y="13" font-size="13" fill="#2c6975" font-family="sans-serif" text-anchor="end" font-weight="bold">0</text>
+    </g>
+    <g transform="translate(0,190)">
+      <text x="22" y="13" font-size="14" fill="#68b2a0" font-family="sans-serif">♺</text>
+      <text x="42" y="13" font-size="13" fill="#c9d1d9" font-family="sans-serif">PR Reviews</text>
+      <text x="360" y="13" font-size="13" fill="#2c6975" font-family="sans-serif" text-anchor="end" font-weight="bold">0</text>
+    </g>
+    <g transform="translate(0,218)">
+      <text x="22" y="13" font-size="14" fill="#68b2a0" font-family="sans-serif">◉</text>
+      <text x="42" y="13" font-size="13" fill="#c9d1d9" font-family="sans-serif">Followers</text>
+      <text x="360" y="13" font-size="13" fill="#2c6975" font-family="sans-serif" text-anchor="end" font-weight="bold">4</text>
+    </g>
+</svg>
