@@ -1,0 +1,9 @@
+{
+  "name": "karen-readme-stats",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Generates GitHub stats SVGs via the official GraphQL API",
+  "scripts": {
+    "generate": "node generate-stats.js"
+  }
+}
