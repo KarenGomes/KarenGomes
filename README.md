@@ -64,20 +64,18 @@
 
 <br>
 
-<h3 align="left">My Stats</h3>
+<details>
+<summary><h3>📊 My Stats</h3></summary>
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KarenGomes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+<img src="https://streak-stats.demolab.com?user=KarenGomes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="100%" alt="streak graph" />
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KarenGomes/KarenGomes/main/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/KarenGomes/KarenGomes/main/languages.svg" height="150" alt="languages graph" />
-</div>
+<img src="https://raw.githubusercontent.com/KarenGomes/KarenGomes/main/stats.svg" width="49%" alt="stats graph" /><img src="https://raw.githubusercontent.com/KarenGomes/KarenGomes/main/languages.svg" width="49%" alt="languages graph" />
+
+</details>
 
 <br>
 
