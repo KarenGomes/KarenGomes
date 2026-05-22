@@ -30,7 +30,7 @@
 
 <br>
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left"> ~· ♡ Languages and Tools</h3>
 
 <br>
 
@@ -65,7 +65,7 @@
 <br>
 
 <details>
-<summary><h3>My Stats</h3></summary>
+<summary><h3> ~· ♡ My Stats</h3></summary>
 
 <div align="center">
 
