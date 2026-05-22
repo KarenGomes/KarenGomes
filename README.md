@@ -30,19 +30,12 @@
 
 <br>
 
-<details>
-<summary><h3> ~· ♡ My Stats · skills & activity overview: </h3></summary>
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/KarenGomes/KarenGomes/main/stats.svg" width="36%" alt="stats graph" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/KarenGomes/KarenGomes/main/languages.svg" width="46%" alt="languages graph" />
 <br>
 
-<img src="https://streak-stats.demolab.com?user=KarenGomes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="85%" alt="streak graph" />
-
 </div>
-
-</details>
 
 <br>
 
