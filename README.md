@@ -30,6 +30,22 @@
 
 <br>
 
+<details>
+<summary><h3> ~· ♡ My Stats · skills & activity overview: </h3></summary>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KarenGomes/KarenGomes/main/stats.svg" width="36%" alt="stats graph" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/KarenGomes/KarenGomes/main/languages.svg" width="46%" alt="languages graph" />
+<br>
+
+<img src="https://streak-stats.demolab.com?user=KarenGomes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="85%" alt="streak graph" />
+
+</div>
+
+</details>
+
+<br>
+
 <h3 align="left"> ~· ♡ Languages and Tools</h3>
 
 <br>
@@ -61,23 +77,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
 </div>
-
-<br>
-
-<details>
-<summary><h3> ~· ♡ My Stats</h3></summary>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/KarenGomes/KarenGomes/main/stats.svg" width="36%" alt="stats graph" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/KarenGomes/KarenGomes/main/languages.svg" width="46%" alt="languages graph" />
-<br>
-
-<img src="https://streak-stats.demolab.com?user=KarenGomes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="85%" alt="streak graph" />
-
-</div>
-
-</details>
-
-<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c6975&height=120&section=footer"/>
