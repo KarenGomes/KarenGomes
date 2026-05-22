@@ -1,34 +1,84 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c6975&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2c6975&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Karen+Gomes;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenGomes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=2c6975&icon_color=68b2a0&text_color=ffffff&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarenGomes&show_icons=true&theme=tokyonight&hide_border=true&title_color=2c6975&icon_color=68b2a0&text_color=ffffff&bg_color=0d1117" />
-</div>
-
-<div align="center">
-<a href="https://github.com/KarenGomes">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarenGomes&bg_color=0d1117&color=2c6975&line=68b2a0&point=2c6975&area=true&hide_border=true" width="85%" alt="Karen's activity graph">
-</a>
-</div>
-
-<div align="center">
-
-
-### Main skills:
-Angular, React, Java (Springboot), HTML5, CSS (SASS, TAILWINDCSS), C, Javascript/typescript/NodeJs, mySQL, flutter
-    
-### Studying in this moment:
-AWS Lambda, graphql
-  
+  <img height="150" src="https://imgur.com/zeuHIk9.gif" />
 </div>
 
 <br>
-<div align="center"> 
-<a href = "mailto:karen.gomes12023@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/karen-sgomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2c6975&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Karen+Gomes;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/karen-sgomes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
+  </a>
+  &nbsp;
+  <a href="https://karengomes.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="portfolio logo" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/KarenGomes">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarenGomes&bg_color=0d1117&color=2c6975&line=68b2a0&point=2c6975&area=true&hide_border=true" width="85%" alt="Karen's activity graph" />
+  </a>
+</div>
+
+<br>
+
+<h3 align="left">Languages and Tools</h3>
+
+<br>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+</div>
+
+<br>
+
+<h3 align="left">My Stats</h3>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KarenGomes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KarenGomes/KarenGomes/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/KarenGomes/KarenGomes/languages-output/languages.svg" height="150" alt="languages graph" />
+</div>
+
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c6975&height=120&section=footer"/>
-
