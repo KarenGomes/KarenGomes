@@ -1,15 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c6975&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2c6975&size=35&center=true&vCenter=true&width=1000&lines=Hello+<3,+I'm+Karen+Gomes;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <div align="center">
   <img height="150" src="https://imgur.com/zeuHIk9.gif" />
 </div>
-
 <br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2c6975&size=35&center=true&vCenter=true&width=1000&lines=Hello+<3,+I'm+Karen+Gomes;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<br>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/karen-sgomes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
@@ -19,7 +15,7 @@
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="portfolio logo" />
   </a>
 </div>
-
+<br>
 <br>
 
 <div align="center">
@@ -49,7 +45,6 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 </div>
-<br>
 
 <h3 align="center">Infrastructure and Databases</h3>
 
